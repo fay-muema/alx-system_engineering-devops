@@ -1,2 +1,2 @@
 #!/bin/bash
-:cd tmp :Mkdir my_first_directory
+:cd tmp :Mkdir my_first_directory: directory
