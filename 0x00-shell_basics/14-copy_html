@@ -1,2 +1,2 @@
 #!/bin/bash
-cp .html /current/primary
+cp -rua *.html ../ 
